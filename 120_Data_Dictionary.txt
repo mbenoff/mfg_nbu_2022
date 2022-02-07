@@ -1,0 +1,3 @@
+<pre><div class="text_to_html">OfferID - Unique ID
+Bad_Flag - Target definition for modelling; 1 indicates a customer with defaulted loan
+x1 to x276 - Predictor variables </div></pre>
